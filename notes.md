@@ -1,9 +1,9 @@
 HOW TO MAKE PROPERTY MAINTENANCE TRIAGE:
 
-read the information from the JSON file
-determine if high, medium or low priority
-pick what contractor is required
-display the ticket id, address, priority level and contractor at the end
+1. read the information from the JSON file
+2. determine if high, medium or low priority
+3. pick what contractor is required
+4. display the ticket id, address, priority level and contractor at the end
 
 ISSUES THAT COULD HAVE AN AFFECT:
 
